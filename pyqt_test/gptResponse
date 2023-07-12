@@ -1,0 +1,27 @@
+"##### Fix bugs in the below function\n "
+           "\n"
+           "### Buggy Python\n"
+           "import Random\n"
+           "a = random.randint(1,12)\n"
+           "b = random.randint(1,12)\n"
+           "for i in range(10):\n"
+           "    question = \"What is \"+a+\" x \"+b+\"? \"\n"
+           "    answer = input(question)\n"
+           "    if answer = a*b\n"
+           "        print (Well done!)\n"
+           "    else:\n"
+           "        print(\"No.\")\n"
+           "    \n"
+           "### Fixed Python",
+
+
+"\nimport random\n
+a = random.randint(1,12)\n
+b = random.randint(1,12)\n
+for i in range(10):\n
+    question = \"What is \"+str(a)+\" x \"+str(b)+\"? \"\n
+    answer = int(input(question))\n
+    if answer == a*b:\n
+        print (\"Well done!\")\n
+    else:\n
+        print(\"No.\")"

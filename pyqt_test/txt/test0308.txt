@@ -1,0 +1,2 @@
+fileName : test0308.txt
+반복문 08번 문제

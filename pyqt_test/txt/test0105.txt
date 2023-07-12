@@ -1,0 +1,2 @@
+fileName : test0105.txt
+입출력 05번 문제

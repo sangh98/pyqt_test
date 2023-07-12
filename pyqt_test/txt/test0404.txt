@@ -1,0 +1,2 @@
+fileName : test0404.txt
+배열 04번 문제

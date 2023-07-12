@@ -1,0 +1,2 @@
+fileName : test0302.txt
+반복문 02번 문제

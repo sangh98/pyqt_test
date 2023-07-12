@@ -1,0 +1,2 @@
+fileName : test0410.txt
+배열 10번 문제

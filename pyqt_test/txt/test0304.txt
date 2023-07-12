@@ -1,0 +1,2 @@
+fileName : test0304.txt
+반복문 04번 문제

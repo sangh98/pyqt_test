@@ -1,0 +1,2 @@
+fileName : test0306.txt
+반복문 06번 문제
